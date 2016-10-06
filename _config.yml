@@ -1,7 +1,7 @@
 name: "Ten Outstanding Boy Scouts of the Philippines Association"
 description: "The Association of Outstanding Scouts"
 
-baseurl: "/"
+baseurl: ""
 
 paginate: 10
 
