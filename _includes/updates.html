@@ -1,0 +1,10 @@
+<div class="container">
+	<h3>Updates</h3>
+	{% for post in site.categories.updates limit: 3 %}
+		<div class="update">
+			<h3>{{ post.title }}<small> | {{ post.date | date_to_long_string }}</small></h3>
+			<p>{{ post.buod }}</p>
+			<a class="btn btn-hollow btn-sm" href="{{ site.baseurl }}{{ post.url }}">Read More</a>
+		</div>
+	{% endfor %}
+</div>

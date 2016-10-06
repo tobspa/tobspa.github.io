@@ -1,0 +1,9 @@
+name: "Ten Outstanding Boy Scouts of the Philippines Association"
+description: "The Association of Outstanding Scouts"
+
+baseurl: "/"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: /:categories/:title
