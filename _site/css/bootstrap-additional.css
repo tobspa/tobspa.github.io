@@ -1,0 +1,92 @@
+.jumbotron-inverse {
+	color: #FFF;
+	margin-bottom: 0
+}
+
+.navbar-fixed-top {
+	background-color: rgba(2, 117, 9, 0.5);
+}
+
+ul.social-links {
+	text-align: center;
+	list-style: none;
+	margin: 15px
+}
+
+ul.social-links li {
+	display: inline;
+	padding: 15px 36px;
+	-webkit-padding-start: 0;
+}
+ul.social-links a:hover {
+	text-decoration: none;
+}
+
+header.jumbotron-inverse {
+	background-color: #027509;
+}
+
+.horizontal-centered {
+	text-align: center;
+}
+
+.row-index {
+	padding: 14px 18px 32px 18px;
+}
+
+.row-inverse {
+	background-color: #027509;
+	color: #fff;
+	min-height: 360px;
+}
+
+.index-row-item {
+	margin-bottom: 15px;
+}
+
+.hand-pointed {
+	cursor: pointer;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.row-image {
+	color: #FFF;
+	min-height: 360px;
+	background-size: 100%;
+	padding-top: 36px;
+}
+
+.panel-hollow {
+	border: solid 1px #fff;
+	padding: 8px 16px;
+	margin-bottom: 15px;
+}
+
+.btn-hollow {
+	border: solid 1px #027509;
+	background-color: rgba(0,0,0,0);
+	color: #027509;
+}
+.btn-hollow:hover {
+	color: #014305;
+	border-color: #014305;
+}
+
+.btn-hollow-inverse {
+	border: solid 1px #fff;
+	background-color: rgba(0,0,0,0);
+	color: #fff;
+}
+
+.btn-hollow-inverse:hover {
+	color: #ccc;
+}
+
+.desaturated {
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	filter: grayscale(100%);
+}

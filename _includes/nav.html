@@ -1,8 +1,17 @@
 <nav class="navbar navbar-default" role="navigation">
-<div class="container">   
-    
-      <ul class="nav navbar-nav navbar-left">
-        <li><a href="{{ site.baseurl }}/">Home<span class="sr-only">(current)</span></a></li>
+<div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">TOBSPA</a>
+      </div>
+      <ul class="nav navbar-nav navbar-left" id="main-nav">
+        <li><a href="{{site.baseurl}}/"></a>TOBSPA</li>
+        <li><a href="{{site.baseurl}}/">Home<span class="sr-only">(current)</span></a></li>
         <li><a href="#">Updates</a></li>
         <li><a href="#">Projects</a></li>
         <li><a href="{{ site.baseurl }}/about">About Us</a></li>

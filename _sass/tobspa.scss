@@ -1,0 +1,79 @@
+header.jumbotron-inverse {
+	background-color: #014305;
+}
+
+.index-text {
+	padding-top: 36px;
+}
+
+a.btn-underlined, a.btn-underlined:visited {
+	padding: 4px 0;
+	color: #fff;
+	border-radius: 0;
+	&:hover {
+		color: #fff;
+		text-decoration: none;
+		border-bottom: 2px solid #fff;
+	}
+}
+
+.cover {
+  background-image: url('/images/cover.jpg');
+  background-size: cover;
+  min-height: 100%;
+	.cover-content {
+		padding-top: 20vh;
+		position: relative;
+		.feature {
+			text-align: center;
+			img {
+				width: 36vw;
+				margin: auto 50px;
+			}
+			.feature-content {
+				color: #fff;
+				padding-top: 72px;
+			}
+		}
+	}
+}
+
+.navbar {
+  position: fixed;
+	z-index: 1000;
+  top: 0;
+  border: none;
+  width: 100%;
+  border-radius: 0;
+  background-color: #333333;
+  min-height: 36px;
+  font-family: $base-font-family;
+	.navbar-toggle, .navbar-toggle:hover {
+		background-color: transparent;
+		padding: 0;
+		border: none;
+	}
+  .navbar-brand {
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 4px;
+    height: auto;
+    padding: 8px 12px;
+    &:hover {
+      color: #fff;
+    }
+  }
+  .nav {
+    li {
+      a {
+        &:hover {
+          color: #fff;
+					cursor: pointer;
+        }
+        color: #fff;
+        padding: 8px 12px;
+        letter-spacing: 2px;
+      }
+    }
+  }
+}

@@ -2,16 +2,22 @@
 title: The Ten Outstanding Boy Scouts of the Philippines Association
 layout: front
 ---
-<header class="jumbotron jumbotron-inverse">
-	<div class="container">
-		<h2>Welcome to the Association of Outstanding Scouts</h2>
-		<h3>{{ page.title }}</h3>
-	</div>
-</header>
 {% include nav.html %}
-<content>	
-	{% include who-we-are.html %}
+<div class="cover">
+	<div class="cover-content">
+		<div class="feature">
+			<img src="/images/tag.png"/>
+			<div class="feature-content">
+				<div class="col-sm-6 col-sm-offset-3">
+					<p>In 1993, a group of past TOBS awardees convened to jumpstart efforts in bringing together all past awardees of the annual Search.  In 1995, the group was officially organized and named Ten Outstanding Boy Scouts of the Philippines Association (TOBSPA).</p>
+					<p>Over the years, the Association evolved as a strong support organization to the BSP in the development and implementation of its relevant projects, activities and advocacies for the advancement of the Filipino youth.</p>
+					<a href="{{ site.baseurl }}/about" class="btn btn-underlined">More About Us</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<content>
 	{% include what-we-do.html %}
 	{% include updates.html %}
 </content>
-

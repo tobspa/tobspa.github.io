@@ -1,0 +1,1153 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"pre",
+				"prep"
+			],
+			[
+				"prep",
+				"prepare"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"cre",
+				"create-user"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"ho",
+				"hostname"
+			],
+			[
+				"hos",
+				"host"
+			],
+			[
+				"Up",
+				"UPDATE"
+			],
+			[
+				"SLE",
+				"SELECT"
+			],
+			[
+				"re",
+				"restore"
+			],
+			[
+				"mysqli_c",
+				"mysqli_connect"
+			],
+			[
+				"create",
+				"create-user-modal"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"mysql",
+				"mysqladmin"
+			],
+			[
+				"pri",
+				"privileges"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"ct",
+				"ctype_alpha"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_array"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"reso",
+				"restore-link"
+			],
+			[
+				"aler",
+				"alerts"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"back",
+				"backup"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"bac",
+				"backup"
+			],
+			[
+				"chec",
+				"check-all"
+			],
+			[
+				"hi",
+				"hideBackup"
+			],
+			[
+				"db",
+				"db_name"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"date",
+				"date_create"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"Pro",
+				"ProfileDetailView"
+			],
+			[
+				"form",
+				"form_class"
+			],
+			[
+				"alumn",
+				"alumni_id"
+			],
+			[
+				"Pr",
+				"ProfileDetailView"
+			],
+			[
+				"templ",
+				"template_name"
+			],
+			[
+				"alumni",
+				"alumniadmin"
+			],
+			[
+				"new",
+				"new_alum"
+			],
+			[
+				"pro",
+				"program"
+			],
+			[
+				"middle",
+				"middle_name"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"appl",
+				"applicant"
+			],
+			[
+				"A",
+				"ProfileApplication"
+			],
+			[
+				"ap",
+				"applicant_id"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"Re",
+				"RequestContext"
+			],
+			[
+				"ren",
+				"render_to_response"
+			],
+			[
+				"check",
+				"check-all"
+			],
+			[
+				"alum",
+				"alum-row"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"cap",
+				"captcha_field"
+			],
+			[
+				"wi",
+				"widget"
+			],
+			[
+				"Prof",
+				"ProfileRequestView"
+			],
+			[
+				"profile",
+				"profile_request"
+			],
+			[
+				"widg",
+				"widgets"
+			],
+			[
+				"dj",
+				"dj_admin"
+			],
+			[
+				"Cea",
+				"CreateView"
+			],
+			[
+				"pr",
+				"ProfileApplication"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"__",
+				"__unicode__"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"obje",
+				"object_string"
+			],
+			[
+				"obj",
+				"object_string"
+			],
+			[
+				"glob",
+				"global"
+			],
+			[
+				"ob",
+				"object_string"
+			],
+			[
+				"o",
+				"object_string"
+			],
+			[
+				"admin_",
+				"admin_jc"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"S",
+				"STATUS"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"get",
+				"get_context_data"
+			],
+			[
+				"User",
+				"UsersListView"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"my",
+				"mysqladmin"
+			],
+			[
+				"SCHEMA",
+				"SCHEMA_NAME"
+			],
+			[
+				"SCH",
+				"SCHEMA_NAME"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"conne",
+				"connect"
+			],
+			[
+				"se",
+				"session_register"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"stri",
+				"stripslashes"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"con",
+				"connection"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"inc",
+				"incomplete"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"log",
+				"logged_in"
+			],
+			[
+				"is_l",
+				"is_loggedin"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"name_",
+				"name_modal"
+			],
+			[
+				"Name",
+				"NameForm"
+			],
+			[
+				"Alu",
+				"AlumInfoForm"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"p",
+				"profile"
+			],
+			[
+				"G",
+				"Graduation"
+			],
+			[
+				"get_",
+				"get_or_create"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"alu",
+				"alumni_id"
+			],
+			[
+				"csv",
+				"csv_file"
+			],
+			[
+				"has",
+				"has_key"
+			],
+			[
+				"al",
+				"alum_id"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"login_",
+				"login_url"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"raw",
+				"raw_name"
+			],
+			[
+				"first",
+				"first"
+			],
+			[
+				"id",
+				"id_string"
+			],
+			[
+				"err",
+				"error_count"
+			],
+			[
+				"error",
+				"error_count"
+			],
+			[
+				"erro",
+				"error_count"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 140,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 739,
+				"line_ending": "Unix",
+				"name": "# Hello World"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix",
+				"name": "<link href=\"/css/bootstrap.css\" rel=\"stylesheet\">"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2014-12-01-first-post.md",
+			"settings":
+			{
+				"buffer_size": 715,
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"file": "_posts/2014-12-02-second-post.md",
+			"settings":
+			{
+				"buffer_size": 739,
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"file": "_includes/sidebar.html",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Unix",
+				"name": "<h3>About Me</h3>"
+			}
+		},
+		{
+			"file": "_includes/nav.html",
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jcdelfinado/bin/jekyll",
+		"/home/jcdelfinado/bin/jekyll/_layouts",
+		"/home/jcdelfinado/bin/jekyll/_posts"
+	],
+	"file_history":
+	[
+		"/media/jcdelfinado/Stuff/documents/lyrics/alive.txt",
+		"/home/jcdelfinado/bin/jekyll/terminal.glue",
+		"/home/jcdelfinado/bin/timelog/grails-app/services/timelog/FileUploadService.groovy",
+		"/home/jcdelfinado/bin/timelog/grails-app/controllers/timelog/EmployeeController.groovy",
+		"/home/jcdelfinado/bin/timelog/grails-app/views/employee/_form.gsp",
+		"/home/jcdelfinado/bin/capstone/msualumni/static/css/bootstrap.css",
+		"/home/jcdelfinado/bin/timelog/grails-app/controllers/timelog/KioskController.groovy",
+		"/media/jcdelfinado/Stuff/documents/lyrics/rise&sing",
+		"/home/jcdelfinado/bin/servpinasSpecs.txt",
+		"/home/jcdelfinado/.ssh/id_rsa.pub",
+		"/media/jcdelfinado/Stuff/documents/lyrics/sinking deep crds",
+		"/home/jcdelfinado/bin/djservpinas/app/admin.py",
+		"/home/jcdelfinado/bin/djservpinas/app/models.py",
+		"/home/jcdelfinado/bin/djservpinas/djservpinas/settings.py",
+		"/home/jcdelfinado/bin/angularjs-grails-sample/server/grails-app/controllers/com/hantsylabs/grails/example/controller/StatusController.groovy",
+		"/home/jcdelfinado/bin/djservpinas/djservpinas/urls.py",
+		"/home/jcdelfinado/bin/capstone/msualumni/profiles/models.py",
+		"/media/jcdelfinado/Stuff/documents/lyrics/sinking deep.txt",
+		"/home/jcdelfinado/bin/djservpinas/profiles/models.py",
+		"/home/jcdelfinado/Documents/zen",
+		"/media/jcdelfinado/Stuff/documents/lyrics/rise and sing lyrics",
+		"/home/jcdelfinado/bin/timelog/web-app/js/employee/controllers.js",
+		"/home/jcdelfinado/bin/timelog/.gitignore",
+		"/home/jcdelfinado/bin/timelog/grails-app/domain/timelog/Employee.groovy",
+		"/home/jcdelfinado/bin/timelog/grails-app/conf/BuildConfig.groovy",
+		"/home/jcdelfinado/bin/timelog/grails-app/conf/DataSource.groovy",
+		"/home/jcdelfinado/bin/timelog/grails-app/domain/timelog/Em",
+		"/opt/lampp/htdocs/mysqladmin/details.php",
+		"/opt/lampp/htdocs/mysqladmin/login.php",
+		"/opt/lampp/htdocs/mysqladmin/backup.php",
+		"/usr/bin/webhttrack",
+		"/opt/lampp/htdocs/mysqladmin/privileges.php",
+		"/opt/eclipse/artifacts.xml",
+		"/opt/lampp/htdocs/mysqladmin/ajax/restore.php",
+		"/opt/lampp/htdocs/mysqladmin/backups/backups.sql",
+		"/opt/lampp/htdocs/mysqladmin/static/js/checkboxes.js",
+		"/opt/lampp/htdocs/mysqladmin/navbar.php",
+		"/opt/lampp/htdocs/mysqladmin/index.php",
+		"/opt/lampp/htdocs/mysqladmin/users.php",
+		"/opt/lampp/htdocs/mysqladmin/ajax/add_user.php",
+		"/opt/lampp/htdocs/mysqladmin/ajax/backup.php",
+		"/opt/eclipse/configuration/config.ini",
+		"/opt/lampp/htdocs/mysqladmin/backups/petowner.sql",
+		"/media/jcdelfinado/Stuff/mysqladmin/static/js/checkboxes.js",
+		"/media/jcdelfinado/Stuff/mysqladmin/users.php",
+		"/media/jcdelfinado/Stuff/mysqladmin/privileges.php",
+		"/opt/lampp/htdocs/mysqladmin/backups/animalcare",
+		"/media/jcdelfinado/Stuff/mysqladmin/details.php",
+		"/media/jcdelfinado/Stuff/mysqladmin/backup.php",
+		"/media/jcdelfinado/Stuff/mysqladmin/navbar.php",
+		"/media/jcdelfinado/Stuff/mysqladmin/login.php",
+		"/media/jcdelfinado/Stuff/mysqladmin/index.php",
+		"/opt/lampp/htdocs/mysqladmin/connect.php",
+		"/home/jcdelfinado/capstone/msualumni/templates/profiles/profile_requests.html",
+		"/home/jcdelfinado/capstone/msualumni/profiles/views.py",
+		"/home/jcdelfinado/capstone/msualumni/profiles/msuadmin/views.py",
+		"/home/jcdelfinado/capstone/msualumni/templates/profiles/profile_page.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/portal/index.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/results_table.html",
+		"/home/jcdelfinado/capstone/msualumni/profiles/msuadmin/urls.py",
+		"/home/jcdelfinado/capstone/msualumni/profiles/urls.py",
+		"/home/jcdelfinado/capstone/msualumni/events/urls.py",
+		"/home/jcdelfinado/capstone/msualumni/msualumni/urls.py",
+		"/home/jcdelfinado/capstone/msualumni/static/js/requests.js",
+		"/home/jcdelfinado/capstone/msualumni/templates/profiles/profiles_base.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/profiles/profile_details.html",
+		"/home/jcdelfinado/capstone/msualumni/static/css/portal.css",
+		"/home/jcdelfinado/capstone/msualumni/static/css/bootstrap.css",
+		"/home/jcdelfinado/capstone/msualumni/profiles/models.py",
+		"/home/jcdelfinado/capstone/msualumni/profiles/forms.py",
+		"/home/jcdelfinado/capstone/msualumni/events/views.py",
+		"/home/jcdelfinado/capstone/msualumni/templates/events/event_detail.html",
+		"/home/jcdelfinado/capstone/msualumni/static/js/admin.js",
+		"/home/jcdelfinado/capstone/msualumni/templates/profiles/index.html",
+		"/home/jcdelfinado/capstone/msualumni/static/js/base.js",
+		"/home/jcdelfinado/capstone/msualumni/static/js/simple_search.js",
+		"/home/jcdelfinado/capstone/msualumni/templates/min_search.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/simple_search.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/profile_preview.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/base.html",
+		"/home/jcdelfinado/capstone/msualumni/static/css/profiles.css",
+		"/home/jcdelfinado/capstone/msualumni/static/css/admin.css",
+		"/home/jcdelfinado/capstone/msualumni/templates/registration/registration_form.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/portal/signup.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/portal/login.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/portal/register.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/profiles/profile_preview.html",
+		"/home/jcdelfinado/capstone/msualumni/alumniadmin/urls.py",
+		"/home/jcdelfinado/capstone/msualumni/templates/profiles/profiles.html",
+		"/home/jcdelfinado/capstone/msualumni/static/css/base.css",
+		"/home/jcdelfinado/capstone/msualumni/news/urls.py",
+		"/home/jcdelfinado/capstone/msualumni/templates/registration/profile_request_form.html",
+		"/home/jcdelfinado/capstone/msualumni/profiles/admin.py",
+		"/home/jcdelfinado/capstone/msualumni/portal/views.py",
+		"/home/jcdelfinado/capstone/msualumni/templates/portal.html",
+		"/media/jcdelfinado/Stuff/projects/PIS/pis_system/static/js/billing.js",
+		"/media/jcdelfinado/Stuff/projects/PIS/pis_system/templates/billing/bill_suggestions.html",
+		"/media/jcdelfinado/Stuff/projects/PIS/pis_system/templates/results_table.html",
+		"/home/jcdelfinado/capstone/msualumni/news/forms.py",
+		"/home/jcdelfinado/capstone/msualumni/events/msuadmin/views.py",
+		"/home/jcdelfinado/capstone/msualumni/static/js/admin_profiles.js",
+		"/home/jcdelfinado/capstone/msualumni/portal/urls.py",
+		"/home/jcdelfinado/capstone/msualumni/templates/profiles/login.html",
+		"/opt/lampp/htdocs/mysqladmin/ops.php",
+		"/opt/lampp/htdocs/sample/test.php",
+		"/opt/lampp/htdocs/sample/welcome.php",
+		"/home/jcdelfinado/capstone/msualumni/alumniadmin/forms.py",
+		"/home/jcdelfinado/capstone/msualumni/profiles/admin/urls.py",
+		"/home/jcdelfinado/capstone/msualumni/profiles/admin/views.py",
+		"/home/jcdelfinado/.envs/capstone/lib/python2.7/site-packages/django/contrib/admin/__init__.py",
+		"/home/jcdelfinado/capstone/msualumni/profiles/admin/admin.py",
+		"/home/jcdelfinado/capstone/msualumni/profiles/admin/models.py",
+		"/home/jcdelfinado/.envs/capstone/lib/python2.7/site-packages/django/contrib/admin/sites.py",
+		"/home/jcdelfinado/commands.txt",
+		"/home/jcdelfinado/assembly.py",
+		"/home/jcdelfinado/capstone/msualumni/migration/convert.py",
+		"/home/jcdelfinado/capstone/msualumni/templates/admin/profiles.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/admin/profile_requests.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/admin_base.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/admin/groups.html",
+		"/home/jcdelfinado/capstone/msualumni/templates/admin/accounts_base.html",
+		"/home/jcdelfinado/new_project/new_project/settings.py",
+		"/home/jcdelfinado/new_project/new_project/urls.py",
+		"/home/jcdelfinado/.envs/capstone/lib/python2.7/site-packages/django/contrib/auth/admin.py",
+		"/home/jcdelfinado/.envs/capstone/lib/python2.7/site-packages/django/contrib/auth/models.py",
+		"/home/jcdelfinado/capstone/msualumni/alumniadmin/admin.py",
+		"/home/jcdelfinado/capstone/msualumni/events/admin.py",
+		"/home/jcdelfinado/capstone/msualumni/alumniadmin/__init__.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"col-md-4",
+			"#",
+			"());",
+			"toggle",
+			"();\n",
+			"slideDown",
+			"edit",
+			"get_url",
+			"ManyTo",
+			"_SESSION",
+			"profile.alumni",
+			"%}\n",
+			"color",
+			"=\"\"",
+			"content",
+			"sherlock",
+			"april 1, 2005",
+			"prescila",
+			"panel",
+			"table",
+			"sha",
+			"timezone",
+			"64",
+			"sys",
+			"Textarea",
+			"date_created",
+			" '",
+			"editor",
+			"</a>",
+			"<a",
+			"icon",
+			"a",
+			"small",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$_SESSION",
+			"profile",
+			"</button>",
+			"<button",
+			"<a",
+			"glyphicon glyphicon"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Hello World",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<link href=\"/css/bootstrap.css\" rel=\"stylesheet\">",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/2014-12-01-first-post.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_posts/2014-12-02-second-post.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_includes/sidebar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<h3>About Me</h3>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_includes/nav.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								967,
+								967
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jekyll.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 438.0,
+		"selected_items":
+		[
+		],
+		"width": 333.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

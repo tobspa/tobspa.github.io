@@ -2,9 +2,9 @@
 title: About Us
 layout: default
 ---
-##Background
+#Background
 
-The Nationwide Search for the Ten Outstanding Boy Scouts (TOBS) of the Philippines was initiated in 1989 during the incumbency of former Education Secretary and Boy Scouts of the Philippines (BSP) National President Dr. Isidro D. Cariño. The Search aims to recognize Scouts who best represent what the Scouting program aspires to achieve: Scouts with sterling achievements in community leadership, academic excellence and good moral conduct. 
+The Nationwide Search for the Ten Outstanding Boy Scouts (TOBS) of the Philippines was initiated in 1989 during the incumbency of former Education Secretary and Boy Scouts of the Philippines (BSP) National President Dr. Isidro D. Cariño. The Search aims to recognize Scouts who best represent what the Scouting program aspires to achieve: Scouts with sterling achievements in community leadership, academic excellence and good moral conduct.
 
 In 1993, a group of past TOBS awardees convened to jumpstart efforts in bringing together all past awardees of the annual Search.  In 1995, the group was officially organized and named Ten Outstanding Boy Scouts of the Philippines Association (TOBSPA).  Over the years, the Association evolved as a strong support organization to the BSP in the development and implementation of its relevant projects, activities and advocacies for the advancement of the Filipino youth.
 
