@@ -1,0 +1,9 @@
+---
+layout: default
+---
+{% for batch in site.data.awardees %}
+  {{batch[0]}}
+  {% for awardee in batch[1] %}
+    <h3>{{awardee.name}} <small>{{awardee.council}}</small></h3>
+  {% endfor %}
+{% endfor %}
